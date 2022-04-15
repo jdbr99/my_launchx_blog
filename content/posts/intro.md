@@ -1,5 +1,5 @@
 ---
-title: "La Cultura de un Desarrollador de Software
+title: "La Cultura de un Desarrollador de Software"
 date: 2022-04-15
 description: "Este es mi primer post de blog en la travesía de LaunchX (poco atrasado, pero está)"
 ---
