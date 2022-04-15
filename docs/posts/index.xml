@@ -8,12 +8,23 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.david-br.com/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
+      <title>La Cultura de un Desarrollador de Software</title>
       <link>https://www.david-br.com/my_launchx_blog/posts/intro/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.david-br.com/my_launchx_blog/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <description>¡Hola!
+Para mí, la cultura de un desarrollador de software se basa en:
+ Cooperación Gusto por la solución de problemas Inclusividad Ganas constantes de aprender y superarse Respeto para todos (inlcuído sí mismo) Cuidado del ambiente de desarrollo (de las personas incluídas, principalmente) Amor por la ciencia y la innovación  </description>
+    </item>
+    
+    <item>
+      <title>Mis Aprendizajes en LaunchX</title>
+      <link>https://www.david-br.com/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.david-br.com/my_launchx_blog/posts/post_1/</guid>
+      <description>Durante mi travesía de LaunchX, lo principal que he aprendido, es sobre la importancia de aplicar buenas prácticas al código que uno hace. A pesar de que yo ya sabía Python, me gustó ver la forma en que otras personas lo escriben y la forma en que utilizan las diferentes estructuras del lenguaje para manejo de errores y condicionales particularmente. Por otro lado, durante el periodo de frontend, pude darme cuenta que a pesar de que no es mi fuerte ni lo que prefiero hacer, soy capáz de armar una maqueta e incluso un producto de frontend completamente funcional.</description>
     </item>
     
   </channel>
